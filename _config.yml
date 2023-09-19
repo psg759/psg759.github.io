@@ -51,8 +51,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
-
+theme: minima
+#plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
