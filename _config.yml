@@ -51,7 +51,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: minima
+theme: plainwhite
 #minima
 #plainwhite
 plugins:
