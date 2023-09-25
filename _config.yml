@@ -52,6 +52,7 @@ plainwhite:
 
 # Build settings
 theme: minima
+#minima
 #plainwhite
 plugins:
   - jekyll-seo-tag
